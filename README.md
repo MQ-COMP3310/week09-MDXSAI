@@ -21,7 +21,6 @@ NOTES:
 - If you are using a Mac you may need to use the command pip3 instead of pip to ensure you are installing packages for python3
 - You may need to downgrade to Python 3.11 or Python 3.10 if you get installation errors.
 - You will also need sqlite installed for the database backend.
-
 # Initialising the database
 
 You should first initialise the database as follows:
